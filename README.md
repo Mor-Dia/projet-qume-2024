@@ -2,7 +2,6 @@
 
 Ce projet Java implémente un **distributeur automatique de boissons**.
 Il permet à un utilisateur d’insérer de l’argent, d’acheter des boissons, de consulter la liste des produits disponibles, de recharger le stock, et d’enregistrer les ventes.
-NB:Pour que le projet marche sur ta machine Mr Diouf il faut que vous configurez  junit 5 dans intellij sur ta machine merci.
 
 
 ##  Architecture
